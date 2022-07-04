@@ -23,5 +23,10 @@ export default StyleSheet.create({
         fontSize:16,
         fontWeight:'bold',
         color:'black'
+    },
+    cog_icon:{
+        position:'absolute',
+        right:40,
+        top:80
     }
 })
